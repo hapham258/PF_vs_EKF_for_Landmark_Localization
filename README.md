@@ -14,10 +14,12 @@ This work is my assignment in the course Artificial Intelligence, taught by Dr. 
   <img src="pf_worst.svg" width="400" alt="accessibility text">
 </p>
 
+<p align="center">
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+</p>
 
 ```
              error_x     error_y     error_theta
