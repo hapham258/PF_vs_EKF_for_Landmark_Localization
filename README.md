@@ -14,7 +14,7 @@ This work is my assignment in the course Artificial Intelligence, taught by Dr. 
   <img src="pf_worst.svg" width="400" alt="accessibility text">
 </p>
 
-   | error_x | error_y | error_theta
+- | error_x | error_y | error_theta
 ------------ | ------------- | ------------- | -------------
 error_odo | 0.612770 | 0.815380 | 0.434710
 error_max | 0.076751 | 0.086025 | 0.012091
