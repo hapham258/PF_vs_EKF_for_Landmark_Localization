@@ -4,8 +4,8 @@ Performance Comparison of Particle Filter and Extended Kalman Filter for Landmar
 # Summary
 In this work, I c
 <p align="center">
-  <img src="pf_best.svg" width="400" alt="accessibility text">
-  <img src="pf_avg.svg" width="400" alt="accessibility text">
-  <img src="pf_worst.svg" width="400" alt="accessibility text">
-  <img src="ekf.svg" width="400" alt="accessibility text">
+  <img src="pf_best.svg" width="200" alt="accessibility text">
+  <img src="pf_avg.svg" width="200" alt="accessibility text">
+  <img src="pf_worst.svg" width="200" alt="accessibility text">
+  <img src="ekf.svg" width="200" alt="accessibility text">
 </p>
