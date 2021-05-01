@@ -2,7 +2,7 @@
 Performance Comparison of Particle Filter and Extended Kalman Filter for Landmark-based Localization, implemented in Matlab.
 
 ## Summary
-This work is my assignment in the course Artificial Intelligence, taught by Dr. Cuong Pham-Viet.
+This work is my assignment in the course Artificial Intelligence, taught by Dr. Viet-Cuong Pham.
 
 ## Results
 <p align="center">
