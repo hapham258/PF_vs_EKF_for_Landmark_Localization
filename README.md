@@ -1,5 +1,5 @@
 # PF_vs_EKF_for_Landmark_Localization
-Performance Comparison of Particle Filter and Extended Kalman Filter for Landmark-based Localization, implemented in Matlab.
+Performance Comparison of Particle Filter and Extended Kalman Filter for Landmark-based Localization, implemented in MATLAB.
 
 ## Summary
 This work is my assignment in the course Artificial Intelligence, taught by Dr. Viet-Cuong Pham.
